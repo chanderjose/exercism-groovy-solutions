@@ -3,3 +3,4 @@
 ## Easy
 
 - [Hello World](hello-world/)
+- [Leap](leap/)
