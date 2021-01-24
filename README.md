@@ -7,3 +7,4 @@
 - [Reverse String](reverse-string/)
 - [Raindrops](raindrops/)
 - [Two Fer](two-fer/)
+- [Resistor color](resistor-color/)
