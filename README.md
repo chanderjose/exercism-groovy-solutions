@@ -10,3 +10,4 @@
 - [Resistor color](resistor-color/)
 - [Darts](darts/)
 - [Hamming](hamming/)
+- [Protein Translation](protein-translation/)
