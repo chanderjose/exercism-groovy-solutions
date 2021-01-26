@@ -9,3 +9,4 @@
 - [Two Fer](two-fer/)
 - [Resistor color](resistor-color/)
 - [Darts](darts/)
+- [Hamming](hamming/)
